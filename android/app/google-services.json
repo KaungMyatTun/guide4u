@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "920833868501",
+    "firebase_url": "https://guide4u-flutter-bbb03.firebaseio.com",
+    "project_id": "guide4u-flutter-bbb03",
+    "storage_bucket": "guide4u-flutter-bbb03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920833868501:android:021ecda0c00371221fd85c",
+        "android_client_info": {
+          "package_name": "com.eizo.guide4u"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920833868501-8vdsnta3mqeijugfkbp00uq7vrbh2fr8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eizo.guide4u",
+            "certificate_hash": "a8101c85bb7b68832e33566ed0a0c6a144534706"
+          }
+        },
+        {
+          "client_id": "920833868501-4qbpupcon1bitsdgp5qs2e2phqs42v1m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpJbfPV3Ol5gm5FFegeBxvHjLC_MIjnIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920833868501-4qbpupcon1bitsdgp5qs2e2phqs42v1m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
